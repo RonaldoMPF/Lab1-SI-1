@@ -1,3 +1,7 @@
 hello word
 Sistemas de Informação 1
+<<<<<<< HEAD
 sem conflito
+=======
+conflito
+>>>>>>> conflito
